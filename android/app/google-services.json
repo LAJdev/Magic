@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418550131594",
+    "project_id": "magic-7c088",
+    "storage_bucket": "magic-7c088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418550131594:android:32057634b72bc81b7ef673",
+        "android_client_info": {
+          "package_name": "com.example.magic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418550131594-2c7a62bmj6q30ukjvbsobh85ps7jgvbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH1B-9QULV6hE7do1CynxxvXNHMeLa__w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418550131594-2c7a62bmj6q30ukjvbsobh85ps7jgvbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
