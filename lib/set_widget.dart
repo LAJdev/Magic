@@ -110,9 +110,9 @@ class _SetWidgetState extends State<SetWidget> {
                   decoration: BoxDecoration(
                       border: Border.all(),
                       borderRadius: BorderRadius.circular(5)),
-                  child: Row(
+                  child: const Row(
                     mainAxisAlignment: MainAxisAlignment.center,
-                    children: const [
+                    children: [
                       Icon(Icons.save),
                       SizedBox(
                         width: 10,
